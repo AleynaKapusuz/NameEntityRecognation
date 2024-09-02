@@ -1,1 +1,3 @@
 # NameEntityRecognation
+
+The purpose of this project is to utilize a BiLSTM (Bidirectional Long Short-Term Memory) neural network model to identify proper nouns within text data. Accurate identification of proper nouns within text is crucial for information extraction and data analysis processes. In this project, a BiLSTM model will be developed and trained on text data using the Python programming language and relevant libraries. The goal is to successfully identify proper nouns within the text data. The results of the project will demonstrate the effectiveness of the BiLSTM model for proper noun recognition in the field of natural language processing.
